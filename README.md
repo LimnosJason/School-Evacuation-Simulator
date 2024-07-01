@@ -1,5 +1,4 @@
 # School Evacuation Simulator in cases of fire, earthquake and flood
-My thesis for my degree in the department of Informatics and Computer Engineering at the University of West Attica.
 
 ## Table of Contents
 - [About](#about)
@@ -123,5 +122,3 @@ examine their knowledge.
 ### Scene for losing
 <div align="center"> <img src="https://github.com/SofiaBili/school-evacuation-sim/assets/88043091/81b11273-5a01-4030-ba0a-93ead58973d0" width="40%"></div>
 
-- ## Thesis
-[Thesis uploaded on university library](https://polynoe.lib.uniwa.gr/xmlui/bitstream/handle/11400/4769/Bili_18390070.pdf?sequence=1&isAllowed=y)
